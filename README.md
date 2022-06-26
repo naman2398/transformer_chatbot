@@ -29,6 +29,7 @@ tensorflow-datasets
 
 beautifulsoup4
 
+Flask
 
 google
 
