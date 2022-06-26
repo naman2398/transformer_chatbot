@@ -4,3 +4,4 @@ numpy==1.21.6
 tensorflow-datasets
 beautifulsoup4
 google
+Flask
