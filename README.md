@@ -17,6 +17,7 @@ Post training, the model was deployed as an Endpoint using Flask and a basic UI 
 
 
 Taking care of business and user experience we added a feature of "assisted video links" in the bot reply when and where required.
+#### Also we took care of latency issue, even though it is a transformer based model , latecny of response ~<2secs
 
 # Packages-used------------
 tensorflow==2.8.2
