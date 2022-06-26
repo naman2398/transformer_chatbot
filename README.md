@@ -12,5 +12,6 @@ The hyperparameters are adjusted to suit the computational restrictionns of the 
 
 Post training, the model was deployed as an Endpoint using Flask and a basic UI was used to expose the API for hitting and getting answers to queries.
 
-Taking care of business and user experience we added a feature of "assisted video links" when and where required.
+Taking care of business and user experience we added a feature of "assisted video links" in the bot reply when and where required.
 
+![new_ModalNet-21](https://user-images.githubusercontent.com/70206828/175798243-32f9a7c0-d2c0-41ba-b5e6-a23219651e22.jpg)
