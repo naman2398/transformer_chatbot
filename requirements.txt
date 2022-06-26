@@ -1,0 +1,6 @@
+tensorflow==2.8.2
+pandas==1.3.5
+numpy==1.21.6
+tensorflow-datasets
+beautifulsoup4
+google
